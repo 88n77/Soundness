@@ -14,3 +14,7 @@ source $HOME/.cargo/env
 
 curl -sSL https://raw.githubusercontent.com/soundnesslabs/soundness-layer/main/soundnessup/install | bash
 source ~/.bashrc
+
+
+sudo apt update
+sudo apt install build-essential curl git cmake -y
