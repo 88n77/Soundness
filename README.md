@@ -1,4 +1,4 @@
-wget --no-cache -q -O wl.sh https://raw.githubusercontent.com/88n77/Soundness/main/wl.sh && chmod +x wl.sh && ./wl.sh
+wget -O install.sh https://raw.githubusercontent.com/88n77/Soundness/main/install.sh && chmod +x install.sh && ./install.sh
 
 go
 
